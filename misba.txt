@@ -1,4 +1,3 @@
 server types
 1.web servers
 2.application server
-3.mail server 
